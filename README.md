@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 My Info :
 - 나의 또 다른 계정 : https://github.com/NamJaeHyeon?tab=repositories (계정을 만들때 혼동해서 만들고 당시 쓰면서도 계정을 혼동하며 썼어요.)
-- 
 
 In the 2020.
 
@@ -126,16 +125,5 @@ Implementation of membership registration function made using node js. node js�
 https://github.com/NamJaeHyeon/aaa/tree/master/app (on 17 Jul 2022)
 
 Board implemented with nodejs. nodejs로 구현한 게시판
-
-
-
-
-
-
-
-
-
-
-
 
 
